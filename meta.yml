@@ -1,7 +1,7 @@
-name: clipclean-premium
+name: clipclean-pro
 tagline: Smarter clipboard cleaning for macOS
 platform: macOS
 version: 1.0.0
 highlight: "Removes invisible junk and smart formatting — optionally preserves layout."
 price: 10
-premium: true
+pro: true

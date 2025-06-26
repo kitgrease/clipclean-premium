@@ -1,4 +1,4 @@
-# clipclean-premium
+# clipclean-pro
 
 Clipboard cleaning for people who care about clean input.
 
@@ -19,4 +19,4 @@ This tool strips it away, leaving clean, copy-ready text.
 Clone this repo and create a shortcut:
 
 ```bash
-alias clipclean="bash /your/path/to/clipclean-premium.sh"
+alias clipclean="bash /your/path/to/clipclean-pro.sh"
